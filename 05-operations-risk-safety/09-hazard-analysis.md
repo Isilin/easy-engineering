@@ -76,6 +76,8 @@ stateDiagram-v2
 | Allocation exigences de sûreté      |      **R**       |   **R**    |  C  |           A            |
 | Vérification (tests)                |        C         |     I      |  C  |         **R**          |
 
+**R**esponsible · **A**ccountable · **C**onsulted · **I**nformed.
+
 ---
 
 ## 6. Position & interactions avec les autres documents

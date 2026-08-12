@@ -78,6 +78,8 @@ stateDiagram-v2
 | Error budget policy     |   **R**   |  **A**  |         I         |        I         |
 | Notification SLA breach |     I     |    I    |         I         |      **R**       |
 
+**R**esponsible · **A**ccountable · **C**onsulted · **I**nformed.
+
 ---
 
 ## 6. Position & interactions avec les autres documents

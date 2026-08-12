@@ -82,6 +82,8 @@ stateDiagram-v2
 | Dérivation des tests unitaires |     I      |     I     |     I      | **R** |
 | Mise à jour                    |   **R**    |     C     |     I      |   I   |
 
+**R**esponsible · **A**ccountable · **C**onsulted · **I**nformed.
+
 ---
 
 ## 6. Position & interactions avec les autres documents

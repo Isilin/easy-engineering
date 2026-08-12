@@ -77,6 +77,8 @@ stateDiagram-v2
 | Alimentation (insights)    |            C            |          C          | **R** |    **R**    |         C          |
 | Diffusion & évangélisation |          **R**          |          C          |   I   |      I      |         I          |
 
+**R**esponsible · **A**ccountable · **C**onsulted · **I**nformed.
+
 > Le **Product Manager/Owner** porte la vision ; la **direction/sponsor** l'approuve.
 
 ---

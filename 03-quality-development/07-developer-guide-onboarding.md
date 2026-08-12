@@ -78,6 +78,8 @@ stateDiagram-v2
 | Test (suivre le guide)            |     I     |     I      |    **R**    |   I    |
 | Validation accès / environnements |     C     |     I      |      I      | **R**  |
 
+**R**esponsible · **A**ccountable · **C**onsulted · **I**nformed.
+
 > Le meilleur testeur d'un onboarding guide est **le prochain dev qui arrive** — leur feedback est de l'or.
 
 ---

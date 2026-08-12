@@ -78,6 +78,8 @@ stateDiagram-v2
 | Approbation          |     C      |     C     |     I      |   I   | **A** |
 | Mise à jour          |   **R**    |     C     |     C      |   I   |   I   |
 
+**R**esponsible · **A**ccountable · **C**onsulted · **I**nformed.
+
 ---
 
 ## 6. Position & interactions avec les autres documents

@@ -75,6 +75,8 @@ stateDiagram-v2
 | Revue                   |        C         |    **R**    |  C  |   I   |
 | Actions de remédiation  |      **R**       |      C      |  C  | **A** |
 
+**R**esponsible · **A**ccountable · **C**onsulted · **I**nformed.
+
 ---
 
 ## 6. Position & interactions avec les autres documents

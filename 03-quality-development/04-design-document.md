@@ -81,6 +81,8 @@ stateDiagram-v2
 | Validation fonctionnelle |      I       |     I     |     I     | **A** |  C  |
 | Implémentation           |    **R**     |     C     |     C     |   I   |  I  |
 
+**R**esponsible · **A**ccountable · **C**onsulted · **I**nformed.
+
 > Tout développeur peut et devrait rédiger un Design Doc pour les features non triviales.
 
 ---

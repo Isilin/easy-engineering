@@ -85,6 +85,8 @@ stateDiagram-v2
 | Validation / baseline |             C              |    A    |     C      |  I  |     C     |  **A**  |
 | Vérification (test)   |             I              |    I    |     I      |  C  |   **R**   |    I    |
 
+**R**esponsible · **A**ccountable · **C**onsulted · **I**nformed.
+
 > Les **NFR** exigent une forte implication de l'**architecte** (souvent des _architecturally significant requirements_).
 
 ---

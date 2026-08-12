@@ -80,6 +80,8 @@ stateDiagram-v2
 | Communication clients |         I          |     I     |   **A**   | **R** |  I  |
 | Suivi des actions     |         C          |   **R**   |     C     |   I   |  C  |
 
+**R**esponsible · **A**ccountable · **C**onsulted · **I**nformed.
+
 ---
 
 ## 6. Position & interactions avec les autres documents

@@ -75,6 +75,8 @@ stateDiagram-v2
 | L4 Code       |     I      |     C     | **R** |  I  |   I   |
 | Deployment    |   **R**    |     C     |   C   |  I  | **R** |
 
+**R**esponsible · **A**ccountable · **C**onsulted · **I**nformed.
+
 ---
 
 ## 6. Position & interactions avec les autres documents

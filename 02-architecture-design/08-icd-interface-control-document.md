@@ -79,6 +79,8 @@ stateDiagram-v2
 | Tests de conformité         |         I         |          I          |     I      | **R** |
 | Demande de changement       |      C ou R       |       C ou R        |   **A**    |   I   |
 
+**R**esponsible · **A**ccountable · **C**onsulted · **I**nformed.
+
 > L'ICD est le seul document qui nécessite l'**approbation des deux parties** (producteur ET consommateur).
 
 ---

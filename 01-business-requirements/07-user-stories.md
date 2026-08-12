@@ -81,6 +81,8 @@ stateDiagram-v2
 | Réalisation              |       I       |   **R**    |      F       |   C   |      I       |
 | Validation (acceptation) |     **A**     |     C      |      I       |   R   |      C       |
 
+**R**esponsible · **A**ccountable · **C**onsulted · **I**nformed.
+
 _F = Facilitateur._ Le **PO** possède le backlog ; l'**équipe** estime et réalise ; le PO **accepte**.
 
 ---

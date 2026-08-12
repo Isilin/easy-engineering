@@ -84,6 +84,8 @@ stateDiagram-v2
 | Décision d'acceptation  |          C          |        **A**         |   C   |     C     |    I    |
 | Signature PV            |        **R**        |        **R**         |   I   |     I     |    I    |
 
+**R**esponsible · **A**ccountable · **C**onsulted · **I**nformed.
+
 _F = Facilitateur._ Les **utilisateurs** testent ; le **PO** pilote et décide.
 
 ---

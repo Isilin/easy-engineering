@@ -74,6 +74,8 @@ stateDiagram-v2
 | Vérification (tests) |           C            |   I   | **R** |   I   |   I   |
 | Revue conformité     |         **R**          |   I   |   I   |   I   | **R** |
 
+**R**esponsible · **A**ccountable · **C**onsulted · **I**nformed.
+
 ---
 
 ## 6. Position & interactions avec les autres documents

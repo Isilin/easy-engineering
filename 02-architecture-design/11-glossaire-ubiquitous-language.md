@@ -75,6 +75,8 @@ stateDiagram-v2
 | Application dans le code  |   I   |       I       |      **R**       |      I       |      I      |
 | Maintenance               | **R** |       C       |        C         |      C       |      C      |
 
+**R**esponsible · **A**ccountable · **C**onsulted · **I**nformed.
+
 ---
 
 ## 6. Position & interactions avec les autres documents

@@ -76,6 +76,8 @@ stateDiagram-v2
 | Application      |   **R**    | **R** |   I   |      F       |     I      |
 | Révision (rétro) |   **R**    | **R** |   C   |      F       |     C      |
 
+**R**esponsible · **A**ccountable · **C**onsulted · **I**nformed.
+
 _F = Facilitateur._ La DoD **appartient à l'équipe** ; le PO l'approuve. Elle n'est pas imposée par le management.
 
 ---

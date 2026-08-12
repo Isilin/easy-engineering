@@ -76,6 +76,8 @@ stateDiagram-v2
 | Décision (accepter/rejeter) |           C            |   **A**   |     A      |   C    |
 | Référencement dans le code  |         **R**          |     C     |     I      |   R    |
 
+**R**esponsible · **A**ccountable · **C**onsulted · **I**nformed.
+
 > Tout ingénieur peut proposer un ADR ; la décision est validée par le tech lead / architecte.
 
 ---

@@ -79,6 +79,8 @@ stateDiagram-v2
 | Communication                  |        I        |   I   |      **R**      |     C      |    I     |
 | Post-Mortem / amélioration     |      **R**      |   C   |        I        |     I      |    C     |
 
+**R**esponsible · **A**ccountable · **C**onsulted · **I**nformed.
+
 ---
 
 ## 6. Position & interactions avec les autres documents

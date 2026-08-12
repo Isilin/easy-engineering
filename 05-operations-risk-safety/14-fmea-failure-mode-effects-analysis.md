@@ -82,6 +82,8 @@ stateDiagram-v2
 | Tests dérivés            |        I        |     I     |     I      |   **R**   |   I   |
 | Alertes dérivées         |        I        |     C     |     I      |     I     | **R** |
 
+**R**esponsible · **A**ccountable · **C**onsulted · **I**nformed.
+
 ---
 
 ## 6. Position & interactions avec les autres documents

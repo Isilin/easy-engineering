@@ -85,6 +85,8 @@ stateDiagram-v2
 | Consultation autorité  |       I       | **R** |  I   |   **A**   |        I        |
 | Tenue du registre      |       C       | **R** |  I   |     I     |        I        |
 
+**R**esponsible · **A**ccountable · **C**onsulted · **I**nformed.
+
 ---
 
 ## 6. Position & interactions avec les autres documents

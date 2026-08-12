@@ -77,6 +77,8 @@ stateDiagram-v2
 | Validation métier          |   C   |    **A**    |     I      |  I  |   C   |
 | Dérivation en tests        |   I   |      I      |     I      |  I  | **R** |
 
+**R**esponsible · **A**ccountable · **C**onsulted · **I**nformed.
+
 ---
 
 ## 6. Position & interactions avec les autres documents

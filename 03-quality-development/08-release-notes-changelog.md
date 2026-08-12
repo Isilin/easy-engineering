@@ -83,6 +83,8 @@ stateDiagram-v2
 | Revue & publication              |        I        |     C     |     **A**     |      C      | **R**  |
 | Diffusion (clients, email)       |        I        |     I     |     **R**     |      C      |   I    |
 
+**R**esponsible · **A**ccountable · **C**onsulted · **I**nformed.
+
 ---
 
 ## 6. Position & interactions avec les autres documents

@@ -82,6 +82,8 @@ stateDiagram-v2
 | Test (DR Drill)           |    **R**     |   C   |     I     |   C    |     I     |
 | Activation en sinistre    |    **R**     | **R** |   **A**   |   C    |     C     |
 
+**R**esponsible · **A**ccountable · **C**onsulted · **I**nformed.
+
 ---
 
 ## 6. Position & interactions avec les autres documents

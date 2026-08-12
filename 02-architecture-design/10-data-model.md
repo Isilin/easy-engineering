@@ -83,6 +83,8 @@ stateDiagram-v2
 | Classification RGPD     |       C       |         C          |      I      |   I   |   **R**    |
 | Migration scripts       |       I       |         C          |    **R**    | **R** |     I      |
 
+**R**esponsible · **A**ccountable · **C**onsulted · **I**nformed.
+
 ---
 
 ## 6. Position & interactions avec les autres documents

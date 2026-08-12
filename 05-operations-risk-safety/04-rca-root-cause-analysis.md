@@ -76,6 +76,8 @@ stateDiagram-v2
 | Validation des actions   |             C             |   **R**   |         C          |   **A**    |
 | Communication externe    |             I             |     I     |         C          |   **R**    |
 
+**R**esponsible · **A**ccountable · **C**onsulted · **I**nformed.
+
 ---
 
 ## 6. Position & interactions avec les autres documents

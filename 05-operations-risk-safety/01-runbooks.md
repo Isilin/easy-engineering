@@ -79,6 +79,8 @@ stateDiagram-v2
 | Exécution en prod           |     I     |     I     |     **R**     |     I      |
 | Mise à jour (post-incident) |   **R**   |     C     |     **R**     |     I      |
 
+**R**esponsible · **A**ccountable · **C**onsulted · **I**nformed.
+
 ---
 
 ## 6. Position & interactions avec les autres documents

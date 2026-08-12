@@ -78,6 +78,8 @@ stateDiagram-v2
 | Analyse de couverture              |       **R**        |       **R**       |     C      |   I   |      A      |
 | Revue / audit                      |         C          |         C         |     C      |   I   |    **A**    |
 
+**R**esponsible · **A**ccountable · **C**onsulted · **I**nformed.
+
 ---
 
 ## 6. Position & interactions avec les autres documents

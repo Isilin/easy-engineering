@@ -80,6 +80,8 @@ stateDiagram-v2
 | Tests de conformité     |            I             |     I      |          I          | **R** |      I      |
 | Documentation narrative |            I             |     I      |          I          |   I   |    **R**    |
 
+**R**esponsible · **A**ccountable · **C**onsulted · **I**nformed.
+
 ---
 
 ## 6. Position & interactions avec les autres documents

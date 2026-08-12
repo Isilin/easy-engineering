@@ -78,6 +78,8 @@ stateDiagram-v2
 | Enforcement automatique |     I      |   **R**   |     I      |     C      | **R** |
 | Évolution des règles    |     C      |   **R**   |     C      |   **R**    |   I   |
 
+**R**esponsible · **A**ccountable · **C**onsulted · **I**nformed.
+
 ---
 
 ## 6. Position & interactions avec les autres documents

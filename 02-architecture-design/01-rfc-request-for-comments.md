@@ -92,6 +92,8 @@ stateDiagram-v2
 | Décision (accepter/rejeter)  |         C          |         **A**          |   C    |       C       |
 | Rédaction de l'ADR résultant |         C          |         **R**          |   C    |       I       |
 
+**R**esponsible · **A**ccountable · **C**onsulted · **I**nformed.
+
 > Tout le monde peut rédiger une RFC ; un rôle d'autorité (tech lead / architecte / comité) **valide ou rejette**.
 
 ---

@@ -72,6 +72,8 @@ stateDiagram-v2
 | Stratégie d'engagement               |        **R**        |   C   |    A    |     **R**      |
 | Mise à jour continue                 |        **R**        |   C   |    I    |       C        |
 
+**R**esponsible · **A**ccountable · **C**onsulted · **I**nformed.
+
 > Souvent porté conjointement par le **PM** (gouvernance) et le **BA** (recueil des besoins).
 
 ---

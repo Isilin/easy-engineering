@@ -80,6 +80,8 @@ stateDiagram-v2
 | Mise à jour baseline          |   **R**   |       **R**        |     C      |  I  |   I   |
 | Configuration alertes prod    |     C     |         I          |     C      |  I  | **R** |
 
+**R**esponsible · **A**ccountable · **C**onsulted · **I**nformed.
+
 ---
 
 ## 6. Position & interactions avec les autres documents

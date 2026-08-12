@@ -77,6 +77,8 @@ stateDiagram-v2
 | Revue conformité exigences |     C      |     C     |     I      |  C  | **A** |  I  |
 | Mise à jour                |   **R**    |     C     |     C      |  I  |   I   |  C  |
 
+**R**esponsible · **A**ccountable · **C**onsulted · **I**nformed.
+
 ---
 
 ## 6. Position & interactions avec les autres documents

@@ -80,6 +80,8 @@ stateDiagram-v2
 | Remboursement              |      **R**      |     C      |   I   |      F       |
 | Suivi global               |        C        |   **R**    |   C   |    **R**     |
 
+**R**esponsible · **A**ccountable · **C**onsulted · **I**nformed.
+
 > Le **PO** arbitre la priorisation : dette technique vs valeur métier. C'est une conversation, pas un diktat technique.
 
 ---

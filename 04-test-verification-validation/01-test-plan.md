@@ -78,6 +78,8 @@ stateDiagram-v2
 | Exécution des tests                   |       **R**       |     I     |  C  |   I   |   I    |
 | Go/No-Go                              |         C         |     C     |  I  | **A** |   I    |
 
+**R**esponsible · **A**ccountable · **C**onsulted · **I**nformed.
+
 ---
 
 ## 6. Position & interactions avec les autres documents

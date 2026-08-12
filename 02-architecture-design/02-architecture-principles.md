@@ -73,6 +73,8 @@ stateDiagram-v2
 | Revue périodique         |   **R**    |     C     |        A        |     C      |  C  |
 | Exceptions / dérogations |   **R**    |     C     |      **A**      |     C      |  I  |
 
+**R**esponsible · **A**ccountable · **C**onsulted · **I**nformed.
+
 ---
 
 ## 6. Position & interactions avec les autres documents

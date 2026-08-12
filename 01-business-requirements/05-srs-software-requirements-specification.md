@@ -80,6 +80,8 @@ stateDiagram-v2
 | Approbation / baseline      |           C            |     C      |      A      |   C   |  **A**  |
 | Change control              |         **R**          |     C      |      A      |   C   |    C    |
 
+**R**esponsible · **A**ccountable · **C**onsulted · **I**nformed.
+
 ---
 
 ## 6. Position & interactions avec les autres documents

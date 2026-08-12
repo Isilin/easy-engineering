@@ -78,6 +78,8 @@ stateDiagram-v2
 | Implémentation        |    **R**    |          C          |     C     |       I       |  I  |
 | Audit périodique      |      I      |          C          |     I     |     **R**     |  C  |
 
+**R**esponsible · **A**ccountable · **C**onsulted · **I**nformed.
+
 ---
 
 ## 6. Position & interactions avec les autres documents

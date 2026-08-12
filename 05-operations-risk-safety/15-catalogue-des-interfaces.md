@@ -74,6 +74,8 @@ stateDiagram-v2
 | Revue de gouvernance                  |        C        |      C       |   **R**    | **R**  |
 | Analyse d'impact (changement)         |      **R**      |      C       |   **R**    |   C    |
 
+**R**esponsible · **A**ccountable · **C**onsulted · **I**nformed.
+
 ---
 
 ## 6. Position & interactions avec les autres documents

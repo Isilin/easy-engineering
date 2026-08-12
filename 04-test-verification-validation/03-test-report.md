@@ -75,6 +75,8 @@ stateDiagram-v2
 | Décision go/no-go   |         C         |     C     | **A** |  I  |  C  |
 | Archivage           |       **R**       |     I     |   I   |  I  |  I  |
 
+**R**esponsible · **A**ccountable · **C**onsulted · **I**nformed.
+
 ---
 
 ## 6. Position & interactions avec les autres documents

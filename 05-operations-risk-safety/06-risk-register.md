@@ -75,6 +75,8 @@ stateDiagram-v2
 | Décision (accepter/éviter) |       C        |     C      |  I  |   C   | **A** |
 | Surveillance               |     **R**      |     C      |  C  |   C   |   I   |
 
+**R**esponsible · **A**ccountable · **C**onsulted · **I**nformed.
+
 ---
 
 ## 6. Position & interactions avec les autres documents

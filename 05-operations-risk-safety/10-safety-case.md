@@ -76,6 +76,8 @@ stateDiagram-v2
 | Revue indépendante |        I         |     I      |  I  |         **R**          |           I            |
 | Approbation        |        I         |     I      |  I  |           C            |         **A**          |
 
+**R**esponsible · **A**ccountable · **C**onsulted · **I**nformed.
+
 ---
 
 ## 6. Position & interactions avec les autres documents

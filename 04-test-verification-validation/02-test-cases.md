@@ -80,6 +80,8 @@ stateDiagram-v2
 | Implémentation automatisée   |   C   | **R** |     C     |   I   |
 | Gestion des échecs / bugs    | **R** | **R** |     C     |   C   |
 
+**R**esponsible · **A**ccountable · **C**onsulted · **I**nformed.
+
 ---
 
 ## 6. Position & interactions avec les autres documents

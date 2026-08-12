@@ -82,6 +82,8 @@ stateDiagram-v2
 | Décision go/no-go           |     C     |     C     |  I  |    C     | **A** |
 | Suivi des conditions        |   **R**   |   **R**   |  C  |    C     |   C   |
 
+**R**esponsible · **A**ccountable · **C**onsulted · **I**nformed.
+
 ---
 
 ## 6. Position & interactions avec les autres documents

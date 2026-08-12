@@ -77,6 +77,8 @@ stateDiagram-v2
 | Revue des licences                     |        C        |          C          |   I   |    **R**    |
 | Transmission aux clients / régulateurs |        I        |          C          | **A** |    **R**    |
 
+**R**esponsible · **A**ccountable · **C**onsulted · **I**nformed.
+
 ---
 
 ## 6. Position & interactions avec les autres documents
