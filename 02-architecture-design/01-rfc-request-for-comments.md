@@ -63,16 +63,11 @@ Un RFC aboutit souvent à un ou plusieurs ADR.
 stateDiagram-v2
     [*] --> Draft: Auteur rédige la proposition
     Draft --> Review: Partage pour commentaires
-    Review --> Revised: Itérations suite aux retours
-    Revised --> Review
+    Review --> Review: Itérations suite aux retours
     Review --> Accepted: Consensus / décision go
     Review --> Rejected: Décision no-go
     Review --> Withdrawn: Auteur retire
-    Accepted --> Implemented: Réalisation
     Accepted --> Superseded: Nouvelle RFC remplace
-    Rejected --> [*]
-    Withdrawn --> [*]
-    Implemented --> [*]
 ```
 
 - **Naissance** : quand un ingénieur identifie un changement significatif nécessitant un débat collectif.
@@ -124,7 +119,7 @@ flowchart LR
 
 - **Identifiants** : `RFC-###` séquentiel et global (jamais réutilisé). Ex. `RFC-042`.
 - **Titre** : court, verbe d'action. Ex. `RFC-042: Migrate auth to OAuth2/PKCE`.
-- **Statut** dans le titre ou l'en-tête : `[DRAFT]` / `[REVIEW]` / `[ACCEPTED]` / `[REJECTED]` / `[SUPERSEDED by RFC-###]`.
+- **Statut** dans le titre ou l'en-tête : `[DRAFT]` / `[REVIEW]` / `[ACCEPTED]` / `[REJECTED]` / `[WITHDRAWN]` / `[SUPERSEDED by RFC-###]`.
 - **Stockage** : idéalement dans le dépôt Git (`docs/rfcs/RFC-042-auth-oauth2.md`) → traçabilité native, PR = période de commentaires.
 
 ---
@@ -134,14 +129,14 @@ flowchart LR
 ```markdown
 # RFC-### : <Titre court>
 
-| Champ                    | Valeur                             |
+| Statut                   | DRAFT                              |
 | ------------------------ | ---------------------------------- |
 | Auteur(s)                |                                    |
-| Statut                   | DRAFT                              |
+| Reviewers(s)             |                                    |
 | Date de création         | AAAA-MM-JJ                         |
 | Fin de période de review | AAAA-MM-JJ                         |
 | RFC(s) liées             | RFC-###                            |
-| ADR résultant            | ADR-### (à remplir après décision) |
+| ADR(s) résultant         | ADR-### (à remplir après décision) |
 
 ---
 
@@ -157,7 +152,7 @@ flowchart LR
 
 <Description détaillée de la solution proposée. Diagrammes, exemples de code, flux si nécessaire.>
 
-## Alternatives considérées
+## Compromis & Alternatives considérées
 
 | Alternative | Raison d'écartement |
 | ----------- | ------------------- |
@@ -170,23 +165,24 @@ flowchart LR
 
 ### Inconvénients / risques
 
+| Risk                       | Impact            | Mitigation           |
+| -------------------------- | ----------------- | -------------------- |
+| Qu'est-ce qui coincerait ? | [élevé/moyen/bas] | Comment y remédier ? |
+
 ### Impact sur les équipes / systèmes existants
+
+## Plan d'implémentation (esquisse)
+
+<Grandes étapes si la RFC est acceptée.>
 
 ## Questions ouvertes
 
 - [ ] Question 1 ?
 - [ ] Question 2 ?
 
-## Plan d'implémentation (esquisse)
+## Appendices
 
-<Grandes étapes si la RFC est acceptée.>
-
----
-
-## Journal de commentaires
-
-| Date | Auteur | Commentaire | Réponse |
-| ---- | ------ | ----------- | ------- |
+Documents d'accompagnement : études, analyses comparatives, liens vers des documents connexes, etc.
 ```
 
 ---
@@ -196,10 +192,10 @@ flowchart LR
 ```markdown
 # RFC-012 : Découpler le service de facturation en microservice autonome
 
-| Champ            | Valeur                   |
+| Statut           | ACCEPTED                 |
 | ---------------- | ------------------------ |
 | Auteur           | L. Durand (Backend Lead) |
-| Statut           | ACCEPTED                 |
+| Reviewers        | A. Dupont (Frontend dev) |
 | Date de création | 2026-02-01               |
 | Fin de review    | 2026-02-14               |
 | ADR résultant    | ADR-008                  |
@@ -225,7 +221,7 @@ Créer `billing-service` (Node.js / Express) exposant :
 
 Le portail appelle le service via HTTP interne ; la génération PDF est mise en file (RabbitMQ).
 
-## Alternatives
+## Compromis & Alternatives considérées
 
 | Alternative                          | Rejet                                   |
 | ------------------------------------ | --------------------------------------- |
